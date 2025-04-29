@@ -1,8 +1,8 @@
 # MUKTHAR'S  Bot 
 
 ## Student Details
-- **Name:** [IDRIS ODUNAYO MUKTHAR]  
-- **Matric Number:** [210561053]  
+- **Name:** [IDRIS  MUKTHAR]  
+- **Matric Number:** [2105******]  
 - **ENT Course:** Web Development  
 - **Assignment:** Chatbot Interface Design  
 

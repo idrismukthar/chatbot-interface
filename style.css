@@ -168,6 +168,16 @@ body, html {
     visibility: visible;
 }
 
+.api-toggle {
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    background: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  
 .message {
     padding: 10px;
     margin: 5px;
